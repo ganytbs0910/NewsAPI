@@ -1,8 +1,6 @@
 デプロイ方法
 
-`cd functions`
-
-`firebase deploy --only functions`
+ firebase deploy --only functions:getLatestNews
 
 厚生労働省のRSS
 
